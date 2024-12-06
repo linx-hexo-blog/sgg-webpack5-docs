@@ -1,1 +1,1 @@
-Web Pages: https://lionsom.github.io/webpack5-docs
+Web Pages: https://linx-hexo-blog.github.io/webpack5-docs
